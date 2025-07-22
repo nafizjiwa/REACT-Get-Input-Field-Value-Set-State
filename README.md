@@ -1,4 +1,4 @@
-# REACT-Get-Input-Field-Value-Set-Constant
+# REACT-Get-Input-Field-Value-A-Set-STATE
 
 Usually the first thing a real-world app needs is a way to get user's input. This is commonly done using the HTML <input> element. But a beginner React developer may struggle to get the value of an input field. Here's how to do it:<br>
 
